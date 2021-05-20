@@ -22,6 +22,15 @@ class _MyHomePageState extends State<MyHomePage> {
         backgroundColor: Colors.indigo[100],
         elevation: 0,
       ),
+      body: Column(
+        children: [
+          Container(
+            height: 50,
+            width: 50,
+            color: Colors.red,
+          )
+        ],
+      ),
     );
   }
 }

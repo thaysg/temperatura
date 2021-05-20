@@ -1,5 +1,5 @@
 import 'package:flutter/material.dart';
-import 'package:temperatura/home.dart';
+import 'package:temperatura/screens/home.dart';
 
 void main() {
   runApp(MyApp());
